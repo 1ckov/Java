@@ -1,0 +1,27 @@
+package ClassesThatNest;
+
+public class Computer {
+
+	private int numberOfHauptspeicher = 0;
+	String hersteller = "HP";
+	Hauptspeicher hauptspeicher = new Hauptspeicher();
+
+	public class Hauptspeicher {
+
+		private int hsNumber;
+		int groesse = 1024;
+
+		Hauptspeicher() {
+			Computer.this.numberOfHauptspeicher++;
+			hsNumber = Computer.this.numberOfHauptspeicher;
+		}
+
+		void printHersteller() {
+			System.out.println(Computer.this.hersteller);
+		}
+
+		void printHsNumber() {
+			System.out.println(hsNumber);
+		}
+	}
+}

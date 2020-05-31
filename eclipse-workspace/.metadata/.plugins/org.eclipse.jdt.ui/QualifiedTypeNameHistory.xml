@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="pr2.oo.abstrakt.Figur"/>
+<fullyQualifiedTypeName name="ProblemsWithInheritance.Animal"/>
+<fullyQualifiedTypeName name="ProblemsWithInheritance.MansBestFriend"/>
+<fullyQualifiedTypeName name="pr2.oo.interfaces.impl.DualShock4"/>
+<fullyQualifiedTypeName name="pr2.oo.interfaces.api.AnalogController"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="de.smits_net.games.framework.board.Board"/>
+<fullyQualifiedTypeName name="tpe.oo.factory.figuren.FigurFactory"/>
+</qualifiedTypeNameHistroy>

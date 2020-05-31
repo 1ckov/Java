@@ -1,0 +1,31 @@
+package ClassesThatNest;
+
+public class Computer {
+
+	private int numberOfHauptspeicher = 0;
+	String hersteller = "HP";
+	Hauptspeicher hauptspeicher = new Hauptspeicher();
+
+	public class Hauptspeicher {
+
+		private int hsNumber;
+		int groesse = 1024;
+		Speicherzelle zelle = new Speicherzelle();
+		class Speicherzelle {
+			int bit = 8;
+		}
+
+		Hauptspeicher() {
+			Computer.this.numberOfHauptspeicher++; // Computer.this is implicit so there is no need to write it except
+			hsNumber = numberOfHauptspeicher; //Works fine
+		}
+
+		void printHersteller() {
+			System.out.println(Computer.this.hersteller);
+		}
+
+		void printHsNumber() {
+			System.out.println(hsNumber);
+		}
+	}
+}

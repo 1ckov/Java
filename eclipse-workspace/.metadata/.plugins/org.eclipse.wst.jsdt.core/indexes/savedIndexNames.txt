@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/home/sa6o/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2241473042.index
+3717840654.index
+2455093489.index
+3052044371.index
+275303660.index
+3833449210.index

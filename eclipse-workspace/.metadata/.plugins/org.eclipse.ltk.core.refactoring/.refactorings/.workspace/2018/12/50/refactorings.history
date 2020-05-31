@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;ProblemsWithInheritance&apos;" deleteContents="false" description="Delete resource &apos;ProblemsWithInheritance&apos;" element1="/ProblemsWithInheritance" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1544391254705"/>&#x0A;<refactoring comment="Delete resource &apos;pr2.05.01-abstract&apos;" deleteContents="false" description="Delete resource &apos;pr2.05.01-abstract&apos;" element1="/pr2.05.01-abstract" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1544539337802"/>
+</session>

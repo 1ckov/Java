@@ -1,0 +1,12 @@
+package ClassesThatNest;
+
+	public class Computer {
+
+		String Hersteller = "HP";
+
+		public class Haupspeicher {
+			int groesse = 1024;
+		}
+	}
+
+

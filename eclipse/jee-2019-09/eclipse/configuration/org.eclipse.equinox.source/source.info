@@ -1,0 +1,5 @@
+#encoding=UTF-8
+#version=1
+org.eclipse.glassfish.tools.jver.source,1.0.0.201806111515,../../../.p2/pool/plugins/org.eclipse.glassfish.tools.jver.source_1.0.0.201806111515.jar,-1,false
+org.eclipse.glassfish.tools.source,1.0.0.201806111515,../../../.p2/pool/plugins/org.eclipse.glassfish.tools.source_1.0.0.201806111515.jar,-1,false
+org.eclipse.glassfish.tools.ui.source,1.0.0.201806111515,../../../.p2/pool/plugins/org.eclipse.glassfish.tools.ui.source_1.0.0.201806111515.jar,-1,false

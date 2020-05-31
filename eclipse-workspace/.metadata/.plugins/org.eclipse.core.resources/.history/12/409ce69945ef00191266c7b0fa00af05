@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<server auto-publish-setting="1" glassfish.adminserverportnumber="4848" glassfish.debugport="8009" glassfish.domainpath="/opt/glassfish4/glassfish/domains/domain1" glassfish.jarDeploy="false" glassfish.serverportnumber="8080" hostname="localhost" id="GlassFish 4 [ServerREST]" name="GlassFish 4 [domain1]" runtime-id="GlassFish 4" server-type="glassfish.server" server-type-id="glassfish.server" start-timeout="240" stop-timeout="240" timestamp="18"/>
